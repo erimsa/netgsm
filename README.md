@@ -20,7 +20,7 @@ package main
 import (
 	"fmt"
 
-	netgsm "github.com/ozgur-soft/netgsm/src"
+	netgsm "github.com/erimsa/netgsm/src"
 )
 
 func main() {
@@ -47,7 +47,7 @@ package main
 import (
 	"fmt"
 
-	netgsm "github.com/ozgur-soft/netgsm/src"
+	netgsm "github.com/erimsa/netgsm/src"
 )
 
 func main() {
